@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP K104K15X7RF5TL2
+D Capacitor;Ceramic;Cap 0.1 uF Vishay 100nF Multilayer Ceramic Capacitor (MLCC) 50 V dc +/-10% X7R dielectric K Radial max op. temp. +125C
+K
+F https://componentsearchengine.com/Datasheets/1/K104K15X7RF5TL2.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet","Mouser Part Number"
+"C1","1","0.1uF","","","","K104K15X7RF5TL2:K104K15X7RF5TL2","https://componentsearchengine.com/Datasheets/1/K104K15X7RF5TL2.pdf","594-K104K15X7RF5TL2"
+"H1,H2,H3,H4","4","MH","","Excluded from BOM","","MountingHole:MountingHole_3.5mm_Pad","~",""
+"J1","1","L77HDB44SD1CH4RSAG","","","","L77HDB44SD1CH4RSAG:L77HDB44SD1CH4RSAG","https://componentsearchengine.com/Datasheets/1/L77HDB44SD1CH4RSAG.pdf","523-L77HDB44SD1CH4RS"
+"J2,J3","2","Conn_01x24_Socket","","","Excluded from board","","https://www.mouser.com/datasheet/3/71/1/M20_782.pdf","855-M20-7823242"
+"J4,J5","2","Conn_01x24_Pin","","","Excluded from board","","https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/68000.pdf","649-68000-124HLF"
+"J6","1","LPJ4012AHNL","","","","LPJ4012AHNL:LPJ4012AHNL","https://www.l-p.com/file/datasheet/lpj4012ahnl-drawing.pdf",""
+"U1","1","Teensy4.1","","","","Teensy:Teensy41","",""

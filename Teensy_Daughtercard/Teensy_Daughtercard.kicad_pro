@@ -198,6 +198,7 @@
         0.1,
         0.15,
         0.2,
+        0.25,
         0.3,
         0.5
       ],
@@ -242,7 +243,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "v0.11"
+      "sch_revision": "v1.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -724,7 +725,7 @@
         "uuid": "f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
       }
     ],
-    "used_designators": "#PWR14,#PWR20-21,#PWR23",
+    "used_designators": "J1-6,#FLG1-3,#PWR1-20,C1,H1-2,TP1-3,U1",
     "variants": []
   },
   "sheets": [

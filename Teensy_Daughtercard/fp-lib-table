@@ -5,4 +5,5 @@
 	(lib (name "LPJ4012AHNL") (type "KiCad") (uri "${KIPRJMOD}/Project KiCAD Library/Footprints and Symbols/LPJ4012AHNL") (options "") (descr ""))
 	(lib (name "RED_LOGO") (type "KiCad") (uri "${KIPRJMOD}/Project KiCAD Library/Footprints and Symbols/RED_LOGO") (options "") (descr ""))
 	(lib (name "XG4A-5034") (type "KiCad") (uri "${KIPRJMOD}/Project KiCAD Library/Footprints and Symbols/XG4A-5034") (options "") (descr ""))
+	(lib (name "LIST-C190YKT") (type "KiCad") (uri "${KIPRJMOD}/Project KiCAD Library/Footprints and Symbols/LIST-C190YKT") (options "") (descr ""))
 )

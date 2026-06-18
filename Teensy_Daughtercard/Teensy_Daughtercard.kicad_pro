@@ -725,7 +725,7 @@
         "uuid": "f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
       }
     ],
-    "used_designators": "LED1,#PWR21-22,R1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

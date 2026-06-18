@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1664073
+D CUC-IA4M-J1ST-AB/R4T-PL1 - Filtered RJ45 PCB connectors, 1x1 single-port, connection direction of the connector to the PCB: 90 , Tab down, Shielded, shield springs, LED (green, yellow), number of positions: 8, 10/100 Mbps, THT, THD, Wave, IP20
+K
+F https://www.phoenixcontact.com/en-us/products/rj45-pcb-connector-cuc-ia4m-j1st-ab-r4t-pl1-1664073?type=pdf
+$ENDCMP
+#
+#End Doc Library

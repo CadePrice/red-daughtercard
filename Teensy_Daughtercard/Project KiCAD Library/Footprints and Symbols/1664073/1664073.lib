@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 1664073
+#/20112201/1699763/2.50/14/2/Connector
+DEF 1664073 J 0 30 Y Y 1 F N
+F0 "J" 1150 300 50 H V L CNN
+F1 "1664073" 1150 200 50 H V L CNN
+F2 "1664073" 1150 100 50 H I L CNN
+F3 "https://www.phoenixcontact.com/en-us/products/rj45-pcb-connector-cuc-ia4m-j1st-ab-r4t-pl1-1664073?type=pdf" 1150 0 50 H I L CNN
+F4 "CUC-IA4M-J1ST-AB/R4T-PL1 - Filtered RJ45 PCB connectors, 1x1 single-port, connection direction of the connector to the PCB: 90 , Tab down, Shielded, shield springs, LED (green, yellow), number of positions: 8, 10/100 Mbps, THT, THD, Wave, IP20" 1150 -100 50 H I L CNN "Description"
+F5 "15.81" 1150 -200 50 H I L CNN "Height"
+F6 "Phoenix Contact" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "1664073" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1150 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1150 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X MH1 1 0 0 200 R 50 50 0 0 P
+X MH2 2 0 -100 200 R 50 50 0 0 P
+X P1 P1 0 -200 200 R 50 50 0 0 P
+X P2 P2 0 -300 200 R 50 50 0 0 P
+X P3 P3 0 -400 200 R 50 50 0 0 P
+X P4 P4 0 -500 200 R 50 50 0 0 P
+X P5 P5 0 -600 200 R 50 50 0 0 P
+X P6 P6 1300 0 200 L 50 50 0 0 P
+X P7 P7 1300 -100 200 L 50 50 0 0 P
+X P8 P8 1300 -200 200 L 50 50 0 0 P
+X A_GREEN P11 1300 -300 200 L 50 50 0 0 P
+X K_GREEN P12 1300 -400 200 L 50 50 0 0 P
+X A_YELLOW P13 1300 -500 200 L 50 50 0 0 P
+X K_YELLOW P14 1300 -600 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -700 200 -700 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -6574,15 +6574,15 @@
 		(uuid "08bfef7e-1c9e-4a4f-a504-174b5808f7bb")
 	)
 	(no_connect
-		(at 175.26 66.04)
+		(at 153.67 133.35)
 		(uuid "08e0b2c0-011c-427b-9748-86a588a95063")
 	)
 	(no_connect
-		(at 153.67 140.97)
+		(at 175.26 73.66)
 		(uuid "0a1281c4-9caa-49ce-9741-a7e8887fe99e")
 	)
 	(no_connect
-		(at 153.67 115.57)
+		(at 175.26 48.26)
 		(uuid "0f5612bb-29c3-487f-bc15-0ee11c99ba94")
 	)
 	(no_connect
@@ -6590,7 +6590,7 @@
 		(uuid "16242fac-1552-4088-be14-35a2f6a3a857")
 	)
 	(no_connect
-		(at 153.67 110.49)
+		(at 175.26 43.18)
 		(uuid "1a54f2e3-1830-4b28-b8f6-18e43b4d1816")
 	)
 	(no_connect
@@ -6598,7 +6598,7 @@
 		(uuid "1adc1ff9-0d20-447a-b6dc-66bdda64db8a")
 	)
 	(no_connect
-		(at 175.26 45.72)
+		(at 153.67 113.03)
 		(uuid "220963cd-3019-4a5a-bd39-5db4ec6eb46f")
 	)
 	(no_connect
@@ -6610,23 +6610,23 @@
 		(uuid "24a0a953-430a-4be2-88d0-74b7e0ea18d3")
 	)
 	(no_connect
-		(at 175.26 48.26)
+		(at 153.67 115.57)
 		(uuid "24f3cbc9-5a51-4c4d-b3b0-3d1232960fc8")
 	)
 	(no_connect
-		(at 153.67 107.95)
+		(at 175.26 40.64)
 		(uuid "263ec1b5-2c18-485a-9e07-bf9d09aa7f85")
 	)
 	(no_connect
-		(at 153.67 148.59)
+		(at 175.26 81.28)
 		(uuid "2684946b-375a-4893-8f22-4efd1db941e3")
 	)
 	(no_connect
-		(at 175.26 35.56)
+		(at 153.67 102.87)
 		(uuid "26e5e979-58cf-477d-b391-98271430148c")
 	)
 	(no_connect
-		(at 153.67 123.19)
+		(at 175.26 55.88)
 		(uuid "29ac6aee-ea54-4008-b52d-b14e49a9a12a")
 	)
 	(no_connect
@@ -6638,15 +6638,15 @@
 		(uuid "2a88fb0e-c8a8-4f9e-91b9-c44fd6af7b05")
 	)
 	(no_connect
-		(at 175.26 30.48)
+		(at 153.67 97.79)
 		(uuid "2aee421d-2123-49cf-8b0d-a984f7bf3690")
 	)
 	(no_connect
-		(at 153.67 120.65)
+		(at 175.26 53.34)
 		(uuid "2ba63b30-3481-4e1d-82e9-74298d9d699b")
 	)
 	(no_connect
-		(at 153.67 102.87)
+		(at 175.26 35.56)
 		(uuid "2f207df4-8567-4c21-ac59-425a5441e6cc")
 	)
 	(no_connect
@@ -6662,15 +6662,15 @@
 		(uuid "31c57ec9-2b6b-492f-a590-ca39097c7086")
 	)
 	(no_connect
-		(at 175.26 83.82)
+		(at 153.67 151.13)
 		(uuid "33ac316f-826a-4c3a-a142-a68bc9f6d338")
 	)
 	(no_connect
-		(at 175.26 53.34)
+		(at 153.67 120.65)
 		(uuid "364a2939-de68-4a04-bd0c-d4834316e085")
 	)
 	(no_connect
-		(at 175.26 63.5)
+		(at 153.67 130.81)
 		(uuid "36e7a5d4-5acd-4ab0-b41f-147a4f87489d")
 	)
 	(no_connect
@@ -6678,31 +6678,31 @@
 		(uuid "3a51b135-f790-4979-9b65-94a63002b459")
 	)
 	(no_connect
-		(at 175.26 58.42)
+		(at 153.67 125.73)
 		(uuid "3e8a24bf-ba3f-4deb-aba0-9394542bfb04")
 	)
 	(no_connect
-		(at 153.67 153.67)
+		(at 175.26 86.36)
 		(uuid "3f0d58b4-c6dd-4870-9643-5b80583eb6d0")
 	)
 	(no_connect
-		(at 153.67 125.73)
+		(at 175.26 58.42)
 		(uuid "4145abd5-99a2-4a66-9c25-8621e9af8dd6")
 	)
 	(no_connect
-		(at 153.67 156.21)
+		(at 175.26 88.9)
 		(uuid "426986d6-6391-49b8-a77c-16b4b5c0f439")
 	)
 	(no_connect
-		(at 153.67 113.03)
+		(at 175.26 45.72)
 		(uuid "42e946c9-109d-453f-b4e4-0cc837b02097")
 	)
 	(no_connect
-		(at 153.67 128.27)
+		(at 175.26 60.96)
 		(uuid "437aa6a5-a761-4643-99cc-3e563d172713")
 	)
 	(no_connect
-		(at 153.67 146.05)
+		(at 175.26 78.74)
 		(uuid "461016a6-e858-4ae3-a5fe-d014faaf7039")
 	)
 	(no_connect
@@ -6718,7 +6718,7 @@
 		(uuid "48ce9e72-60c3-48a6-8777-0041e7291bbf")
 	)
 	(no_connect
-		(at 175.26 50.8)
+		(at 153.67 118.11)
 		(uuid "4d5d9980-9b07-4433-bad7-697d13c77786")
 	)
 	(no_connect
@@ -6738,11 +6738,11 @@
 		(uuid "520a3d77-4466-4df0-9c57-6cf39daa64d1")
 	)
 	(no_connect
-		(at 175.26 33.02)
+		(at 153.67 100.33)
 		(uuid "528bdf1f-325b-4efb-8f59-6066e0f2f7af")
 	)
 	(no_connect
-		(at 175.26 71.12)
+		(at 153.67 138.43)
 		(uuid "52bb9b49-f859-4ddc-9dc7-6f1b27917766")
 	)
 	(no_connect
@@ -6754,7 +6754,7 @@
 		(uuid "5424eb06-e625-4aa7-adbc-a8200097dee7")
 	)
 	(no_connect
-		(at 153.67 97.79)
+		(at 175.26 30.48)
 		(uuid "5563502e-8fdd-4bf3-baae-ffd04626ba7d")
 	)
 	(no_connect
@@ -6762,7 +6762,7 @@
 		(uuid "57e3b614-6db8-4df7-b832-5d1310c187db")
 	)
 	(no_connect
-		(at 153.67 138.43)
+		(at 175.26 71.12)
 		(uuid "57e5a77c-3678-4e95-ad40-5b3ead58c30b")
 	)
 	(no_connect
@@ -6782,11 +6782,11 @@
 		(uuid "63d5c9e6-a650-4a35-99d2-d642f456d735")
 	)
 	(no_connect
-		(at 153.67 133.35)
+		(at 175.26 66.04)
 		(uuid "66f440f3-9e65-4093-98b9-322fb5dff72e")
 	)
 	(no_connect
-		(at 175.26 38.1)
+		(at 153.67 105.41)
 		(uuid "7007c30c-d905-4f77-8888-d5ee6e0f0424")
 	)
 	(no_connect
@@ -6794,7 +6794,7 @@
 		(uuid "79e3cd6e-cc10-42a0-94c4-d088c515ce91")
 	)
 	(no_connect
-		(at 175.26 88.9)
+		(at 153.67 156.21)
 		(uuid "7a12c296-b62c-4def-a880-fd6994ebfe53")
 	)
 	(no_connect
@@ -6814,15 +6814,15 @@
 		(uuid "808b1a06-2529-4b4c-8437-690456fe16fb")
 	)
 	(no_connect
-		(at 153.67 151.13)
+		(at 175.26 83.82)
 		(uuid "80a604ca-e045-4cab-81a6-949d19d1d66c")
 	)
 	(no_connect
-		(at 175.26 73.66)
+		(at 153.67 140.97)
 		(uuid "879a4627-e8bd-4c68-91e7-028f1373ca9a")
 	)
 	(no_connect
-		(at 175.26 68.58)
+		(at 153.67 135.89)
 		(uuid "8c143b64-082c-4fb1-b629-3b7e4bde473a")
 	)
 	(no_connect
@@ -6850,11 +6850,11 @@
 		(uuid "9af4d205-4fb0-4a04-8472-f467bebbfa19")
 	)
 	(no_connect
-		(at 153.67 143.51)
+		(at 175.26 76.2)
 		(uuid "9cddd83b-5022-4f18-98c1-d39d6fda710d")
 	)
 	(no_connect
-		(at 153.67 100.33)
+		(at 175.26 33.02)
 		(uuid "a3f536d8-c318-4d66-bd8e-595f3726e92c")
 	)
 	(no_connect
@@ -6866,7 +6866,7 @@
 		(uuid "a6d4c476-0259-458b-9c5b-9d0cbac9c8c9")
 	)
 	(no_connect
-		(at 175.26 78.74)
+		(at 153.67 146.05)
 		(uuid "ac04ad78-9dd8-46a4-9d42-29c74abbcf81")
 	)
 	(no_connect
@@ -6914,7 +6914,7 @@
 		(uuid "c2d366ac-4799-4ff1-a2b6-94ebac79b305")
 	)
 	(no_connect
-		(at 175.26 43.18)
+		(at 153.67 110.49)
 		(uuid "c3319e02-0d8f-4a70-9429-c939707a121b")
 	)
 	(no_connect
@@ -6926,7 +6926,7 @@
 		(uuid "c8721466-ac04-422c-90a1-ae0b230f4db7")
 	)
 	(no_connect
-		(at 175.26 76.2)
+		(at 153.67 143.51)
 		(uuid "c91ef564-457d-4212-9e9d-732f574360ff")
 	)
 	(no_connect
@@ -6934,7 +6934,7 @@
 		(uuid "ca5a5583-64bd-4a3c-a3b4-90f5727be498")
 	)
 	(no_connect
-		(at 175.26 55.88)
+		(at 153.67 123.19)
 		(uuid "ca61acb7-3f40-43a2-8e31-88088fa86896")
 	)
 	(no_connect
@@ -6966,11 +6966,11 @@
 		(uuid "d2cca691-c897-4c26-879c-d81d4938a574")
 	)
 	(no_connect
-		(at 175.26 40.64)
+		(at 153.67 107.95)
 		(uuid "d43af359-25d9-4d39-8174-ec4d1e5fcbe8")
 	)
 	(no_connect
-		(at 153.67 105.41)
+		(at 175.26 38.1)
 		(uuid "d5502a8b-1d4d-47f3-b9b7-923c98b810b1")
 	)
 	(no_connect
@@ -6982,19 +6982,19 @@
 		(uuid "d7fbfd3d-46bc-4eda-8b5f-325e3f81b680")
 	)
 	(no_connect
-		(at 153.67 135.89)
+		(at 175.26 68.58)
 		(uuid "d98d3989-111c-4d7a-840b-092ad25e9e95")
 	)
 	(no_connect
-		(at 175.26 81.28)
+		(at 153.67 148.59)
 		(uuid "dd23fa96-a27a-4578-abe0-72c188dca3fd")
 	)
 	(no_connect
-		(at 175.26 60.96)
+		(at 153.67 128.27)
 		(uuid "e1abd1ba-34b6-484d-b8bd-62396eb595ba")
 	)
 	(no_connect
-		(at 153.67 118.11)
+		(at 175.26 50.8)
 		(uuid "e1ffdb11-5f2b-4d72-94e8-71ae9aacdb6f")
 	)
 	(no_connect
@@ -7006,11 +7006,11 @@
 		(uuid "e991addb-65b8-4912-bbc1-11c170297e64")
 	)
 	(no_connect
-		(at 175.26 86.36)
+		(at 153.67 153.67)
 		(uuid "f01e4b4e-5ced-4521-9b94-34109d14308d")
 	)
 	(no_connect
-		(at 153.67 130.81)
+		(at 175.26 63.5)
 		(uuid "f1d6b455-8abd-4c5f-b7ef-49e58e0b2d93")
 	)
 	(no_connect
@@ -9177,7 +9177,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "019d31ee-2adf-4467-9572-681b2cc2ffd7")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR019"
 			(at 233.68 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -9238,7 +9238,7 @@
 		(instances
 			(project "Teensy_Daughtercard"
 				(path "/f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
-					(reference "#PWR017")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -9256,7 +9256,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06b25937-1e01-4584-b105-f184f40c4d33")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR09"
 			(at 100.33 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -9316,7 +9316,7 @@
 		(instances
 			(project "Teensy_Daughtercard"
 				(path "/f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
-					(reference "#PWR024")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -9717,7 +9717,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x24_Socket")
-		(at 170.18 60.96 180)
+		(at 148.59 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9726,8 +9726,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "164ceab2-e711-406c-a026-063cc3cfedeb")
-		(property "Reference" "J4"
-			(at 173.228 25.4 0)
+		(property "Reference" "J3"
+			(at 151.638 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9737,7 +9737,7 @@
 			)
 		)
 		(property "Value" "Conn_01x24_Socket"
-			(at 173.482 27.432 0)
+			(at 151.892 94.742 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9747,7 +9747,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 60.96 0)
+			(at 148.59 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9758,7 +9758,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.com/datasheet/3/71/1/M20_782.pdf"
-			(at 170.18 60.96 0)
+			(at 148.59 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9769,7 +9769,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x24, script generated"
-			(at 170.18 60.96 0)
+			(at 148.59 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9780,7 +9780,7 @@
 			)
 		)
 		(property "Mouser Part Number" "855-M20-7823242"
-			(at 170.18 60.96 90)
+			(at 148.59 128.27 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9865,7 +9865,7 @@
 		(instances
 			(project "Teensy_Daughtercard"
 				(path "/f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
-					(reference "J4")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -10419,7 +10419,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x24_Pin")
-		(at 148.59 125.73 0)
+		(at 170.18 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10428,8 +10428,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4138eaa8-69d1-47e5-ae9b-b8c2fb6cef71")
-		(property "Reference" "J3"
-			(at 151.638 92.202 0)
+		(property "Reference" "J4"
+			(at 173.228 24.892 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10439,7 +10439,7 @@
 			)
 		)
 		(property "Value" "Conn_01x24_Pin"
-			(at 152.146 94.234 0)
+			(at 173.736 26.924 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10449,7 +10449,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 125.73 0)
+			(at 170.18 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10460,7 +10460,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/68000.pdf"
-			(at 148.59 125.73 0)
+			(at 170.18 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10471,7 +10471,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x24, script generated"
-			(at 148.59 125.73 0)
+			(at 170.18 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10482,7 +10482,7 @@
 			)
 		)
 		(property "Mouser Part Number" "649-68000-124HLF"
-			(at 148.59 125.73 90)
+			(at 170.18 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10567,7 +10567,7 @@
 		(instances
 			(project "Teensy_Daughtercard"
 				(path "/f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
-					(reference "J3")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -10585,7 +10585,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52b1cae6-8e7b-4f0b-8a5d-4e9b7d1bf92d")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR016"
 			(at 133.35 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -10645,7 +10645,7 @@
 		(instances
 			(project "Teensy_Daughtercard"
 				(path "/f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
-					(reference "#PWR021")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -10740,7 +10740,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6491b703-ebdc-4da6-b4b9-1719b856d1ab")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR018"
 			(at 243.84 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -10801,7 +10801,7 @@
 		(instances
 			(project "Teensy_Daughtercard"
 				(path "/f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
-					(reference "#PWR016")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -10898,7 +10898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6efe0219-f916-489a-a739-5eaabca2b433")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR020"
 			(at 243.84 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -10959,7 +10959,7 @@
 		(instances
 			(project "Teensy_Daughtercard"
 				(path "/f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
-					(reference "#PWR018")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -11291,7 +11291,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8dd12940-6978-43bc-ad1b-729963eafe27")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR01"
 			(at 25.4 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -11351,7 +11351,7 @@
 		(instances
 			(project "Teensy_Daughtercard"
 				(path "/f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
-					(reference "#PWR023")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -11447,7 +11447,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93ed7867-9148-4c13-87dd-ccf73470632c")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR021"
 			(at 243.84 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -11508,7 +11508,7 @@
 		(instances
 			(project "Teensy_Daughtercard"
 				(path "/f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
-					(reference "#PWR019")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -12403,7 +12403,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbc9400a-60d7-4711-aecc-deeedef55bb0")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR017"
 			(at 243.84 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -12464,7 +12464,7 @@
 		(instances
 			(project "Teensy_Daughtercard"
 				(path "/f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
-					(reference "#PWR015")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -12481,7 +12481,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "be047eb0-c6c4-4d66-aaca-ce73769bbe65")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR015"
 			(at 133.35 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -12541,7 +12541,7 @@
 		(instances
 			(project "Teensy_Daughtercard"
 				(path "/f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
-					(reference "#PWR022")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -12967,7 +12967,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "1000"
 			(at 135.89 146.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13038,7 +13038,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef422752-130b-4bef-b35e-41e6a2df146e")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR022"
 			(at 233.68 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13099,7 +13099,7 @@
 		(instances
 			(project "Teensy_Daughtercard"
 				(path "/f1be25be-bbd9-4ce6-ab65-db39d02c19d6"
-					(reference "#PWR020")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
